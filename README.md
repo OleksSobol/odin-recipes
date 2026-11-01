@@ -1,5 +1,3 @@
-# odin-recipes
-
 Project: Recipes 
 ---
 
